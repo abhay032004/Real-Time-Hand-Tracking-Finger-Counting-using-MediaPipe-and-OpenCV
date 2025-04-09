@@ -22,6 +22,12 @@ The goal of this project is to explore and demonstrate the power of real-time ge
 - 🔄 **Support for both hands** (multi-hand tracking up to 2 hands)  
 - 🛠️ **Easily extendable** for gesture-controlled applications  
 
+## 📈 Future Enhancements
+
+- Add gesture recognition for custom controls  
+- Integrate with smart devices or games  
+- Add GUI interface using Tkinter or PyQt  
+- Upload output video directly to cloud or social media  
 
 
 
